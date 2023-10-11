@@ -1,18 +1,19 @@
 # Zweb
 Imagine surf but:
- - Works with wayland
- - Upgraded to gtk4 and the latest version of webkit
- - Rewritten in zig
+- Works with wayland
+- Upgraded to gtk4 and the latest version of webkit
+- Rewritten in zig
+
 This is what zweb aims to be.
 
 ## Features (still WIP)
- - Display basic webpages
- - Simple custom new tab page that works offline
- - Basic keybindings - ctrl + ...:
-    - [r]eload
-    - go [h]ome
-    - [<-] backwards in history
-    - [->] forwards in history
+- Display basic webpages
+- Simple custom new tab page that works offline
+- Basic keybindings - ctrl + ...:
+  - [r]eload
+  - go [h]ome
+  - [<-] backwards in history
+  - [->] forwards in history
 
 ## Installation
 ### 1. Get dependencys
